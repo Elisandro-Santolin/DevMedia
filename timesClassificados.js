@@ -14,5 +14,5 @@ function verificaTimesClassificados (time){
 let timesClassificados = tabela.filter(verificaTimesClassificados);
 
 timesClassificados.forEach(time => {
-    console.log(timesClassificados);
+    console.log(time.time.toLocaleUpperCase());
 });
