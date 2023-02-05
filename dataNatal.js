@@ -10,11 +10,8 @@ const segundos = tempoFalta / 1000;
 const minutos = segundos / 60;
 const horas = minutos / 60;
 
-if(horas > 1)
-{
+if(horas > 1){
     console.log("Faltam " + horas + " horas para o Natal de 2023");
-}
-else
-{
+} else{
     console.log("Falta" + horas + " hora para o Natal de 2023");
 }

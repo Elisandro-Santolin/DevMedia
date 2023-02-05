@@ -8,6 +8,6 @@ function verifica_tamanho_senha (senha) {
     
     if(verifica_tamanho_senha(senha_cadastro)){
         console.log("A senha possui o mínimo de 10 caracteres");
-    }else {
+    } else{
         console.log("A senha não possui o mínimo de 10 caracteres");
     }

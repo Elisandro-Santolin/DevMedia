@@ -10,7 +10,7 @@ let totalDeConvidados = convidados.length;
 let bebemRefrigerante = 0;
 let bebemCerveja = 0;
 
-for ( const convidado of convidados) {
+for(const convidado of convidados) {
     if(convidado.cerveja == true){
         bebemCerveja++;
     }else {

@@ -10,8 +10,7 @@ const filmes = [
         nome: 'IT - CAPÍTULO 2',
         anoLancamento: 2019,
         gênero: 'Terror'
-    };
-    
-    filmes.push(novoFilme); 
-    filmes.shift();
-        console.log(filmes); 
+};
+filmes.push(novoFilme); 
+filmes.shift();
+    console.log(filmes); 
