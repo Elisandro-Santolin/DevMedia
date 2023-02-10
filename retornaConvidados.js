@@ -1,9 +1,9 @@
 const convidados = [
-    { nome: 'José', cerveja: false},
+    { nome: 'José',    cerveja: false},
     { nome: 'Augusto', cerveja: true},
-    { nome: 'Tomas', cerveja: true},
-    { nome: 'Joana', cerveja: false},
-    { nome: 'Aline', cerveja: false},
+    { nome: 'Tomas',   cerveja: true},
+    { nome: 'Joana',   cerveja: false},
+    { nome: 'Aline',   cerveja: false},
 ]; 
 
 let totalDeConvidados = convidados.length;

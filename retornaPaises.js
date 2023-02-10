@@ -1,8 +1,8 @@
 let paises = [
-    {nome: 'Brasil', local: 'América do Sul'},
+    {nome: 'Brasil',         local: 'América do Sul'},
     {nome: 'Estados Unidos', local: 'América do Norte'},
-	{nome: 'Argentina', local: 'América do Sul'},
-	{nome: 'Canada', local: 'América do Norte'},
+	{nome: 'Argentina',      local: 'América do Sul'},
+	{nome: 'Canada',         local: 'América do Norte'},
 ];
 function retornaPaisesAmericaNorte(pais){
     return (pais.local == 'América do Norte');

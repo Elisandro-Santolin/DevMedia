@@ -1,8 +1,8 @@
 let series = [
-    {nome: 'Loki', servico: 'Disney+'},
-	{nome: 'Friends', servico: 'HBO'},
-	{nome: 'Superman & Lois', servico: 'HBO'},
-	{nome: 'WandaVision', servico: 'Disney+'},
+    {nome: 'Loki',             servico: 'Disney+'},
+	{nome: 'Friends',          servico: 'HBO'},
+	{nome: 'Superman & Lois',  servico: 'HBO'},
+	{nome: 'WandaVision',      servico: 'Disney+'},
 ];
 
 function retornaSeriesDisney(serie){
