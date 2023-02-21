@@ -7,4 +7,4 @@ function retornaSerieDia(){
 }
 let serieDoDia = retornaSerieDia();
 
-console.log("Serie do dia: " + serieDoDia + "!");
+console.log("Serie do dia: "+ serieDoDia +"!");

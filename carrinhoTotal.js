@@ -7,6 +7,7 @@ const itensCarrinho = [
     
     const totalAPagar = itensCarrinho.reduce(function(total, itemCarrinho) {
         const valorItem = itemCarrinho.qnt * itemCarrinho.valor;
-        return total + valorItem;
-    }, 0);
-    console.log(totalAPagar);
+            return total + valorItem;
+},0);
+
+console.log(totalAPagar);

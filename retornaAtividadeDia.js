@@ -6,4 +6,4 @@ function retornaAtividadeDia (){
 }
 let atividadeDoDia = retornaAtividadeDia();
 
-console.log("Atividade do dia: " + atividadeDoDia);
+console.log("Atividade do dia: "+atividadeDoDia);
